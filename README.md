@@ -9,6 +9,10 @@
   <a href="https://x.com/rfgarcia"><img src="https://img.shields.io/twitter/follow/rfgarcia" alt="Follow @rfgarcia"></a>
 </p>
 
+<p align="center">
+  <a href="https://railway.com/deploy/kernel-browser"><img src="https://railway.com/button.svg" alt="Deploy on Railway"></a>
+</p>
+
 ## What's Kernel?
 
 Kernel provides sandboxed, ready-to-use Chrome browsers for browser automations and web agents. This repo powers our [hosted services](https://kernel.sh/docs/introduction).
